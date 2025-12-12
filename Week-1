@@ -1,0 +1,16 @@
+sh 
+man push
+man mkdir
+man is
+who
+pwd
+mkdir marvel
+cd Marvel
+echo "Iron man" >> Avengers.text
+echo "Caption America" >> Avengers.text
+echo "Thor" >> Avengers.text
+echo "Hulk" >> Avengers.text
+echo "Black Widow" >> Avengers.text
+echo "Hawkeys" >> Avengers.text
+is
+cat Avengers.text
